@@ -1,5 +1,5 @@
 # West_In_Sales_Dashboard
-I made this amazing interactive dashboard using Microsoft Power BI.
+### I made this amazing interactive dashboard using Microsoft Power BI.
 - Data Transformation Cleaning & Processing in Power query editor
 - ETL process in Power BI
 - Power BI Dashboard Setup
